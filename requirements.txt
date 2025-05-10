@@ -3,10 +3,9 @@ math
 heapq
 pandas
 collections
-matplotlib.pyplot
+matplotlib
 folium
-folium.features
-streamlit_folium
+streamlit-folium
 streamlit
 plotly_express
 networkx
